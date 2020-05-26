@@ -36,7 +36,7 @@ cd deno_cloudinary
 3. Next, you can run any of the examples using deno"
 
 ```bash
-deno run --allow-net --allow-env examples/admin_get_resources.ts
+deno run --allow-net --allow-env examples/...
 ```
 
 ### Coding Standards
@@ -51,8 +51,6 @@ TBD/TODO: Test the main client
 
 TBD
 (TODO: Establish Code of Conduct, Contributors Policy)
-
-[Visit the project on GitHub]()
 
 ## License
 
